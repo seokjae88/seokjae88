@@ -6,12 +6,13 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=flat-square&logo=Apache%20Spark&logoColor=white)
 
+<a href="https://www.jetbrains.com/ko-kr/idea/download/#section=windows"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
+<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
+
 <a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Confluence-0052CC.svg?&style=flat-square&logo=Confluence&logoColor=white"/></a>
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white)
 
-<a href="https://www.jetbrains.com/ko-kr/idea/download/#section=windows"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
-<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
 
 ## 📬 Contacts
 <a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Confluence-0052CC.svg?&style=flat-square&logo=Confluence&logoColor=white"/></a>
