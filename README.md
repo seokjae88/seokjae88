@@ -3,12 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokjae88%2Fseokjae88&count_bg=%2385ACED&title_bg=%23A53AF3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 💪Skill
-## Platforms & Langurages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white)
-
-## Tools
 <a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Confluence-0052CC.svg?&style=for-the-badge&logo=Confluence&logoColor=white"/></a>
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)
