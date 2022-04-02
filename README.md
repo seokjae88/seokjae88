@@ -12,7 +12,7 @@
 
 # 📬 Contacts
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae88)](https://github.com/seokjae88/github-readme-stats)
 
 <!--
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
