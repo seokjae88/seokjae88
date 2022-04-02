@@ -10,7 +10,12 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white)
 
+<a href="https://www.jetbrains.com/ko-kr/idea/download/#section=windows"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
+<a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio
+-5C2D91.svg?&style=flat-square&logo=Visual%20Studio%20IDEA&logoColor=white"/></a>
+
 ## 📬 Contacts
+<a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Confluence-0052CC.svg?&style=flat-square&logo=Confluence&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae88)](https://github.com/seokjae88/github-readme-stats)
 
