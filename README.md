@@ -14,8 +14,8 @@
   <a href="https://visualstudio.microsoft.com/ko/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
 
   <a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Confluence-0052CC.svg?&style=flat-square&logo=Confluence&logoColor=white"/></a>
-  ![https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white](https://seokjae.atlassian.net/wiki/home)
-  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white)
+  <a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white"/></a>
+  <a href="https://seokjae.atlassian.net/wiki/home"><img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white"/></a>
 
 </div>
 
